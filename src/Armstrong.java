@@ -8,6 +8,9 @@ public class Armstrong {
 // programm should ask you number=27 ,25
         originalNumber = number;
 
+        
+        
+        
         while (originalNumber != 0)
         {
             remainder = originalNumber % 10;
