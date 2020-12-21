@@ -27,7 +27,7 @@
 	{
 	    public static void main(String[] args)
 	    {
-	        X x = new Y();
+	        X x = new Y();	//Upcasting
 	         
 	        x.abstractMethod();
 	    }
